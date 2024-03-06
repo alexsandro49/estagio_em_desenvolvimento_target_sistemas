@@ -1,0 +1,15 @@
+/home/alex49/dev/estagio_em_desenvolvimento_target_sistemas/SequenciaFibonacci/bin/Debug/net8.0/SequenciaFibonacci
+/home/alex49/dev/estagio_em_desenvolvimento_target_sistemas/SequenciaFibonacci/bin/Debug/net8.0/SequenciaFibonacci.deps.json
+/home/alex49/dev/estagio_em_desenvolvimento_target_sistemas/SequenciaFibonacci/bin/Debug/net8.0/SequenciaFibonacci.runtimeconfig.json
+/home/alex49/dev/estagio_em_desenvolvimento_target_sistemas/SequenciaFibonacci/bin/Debug/net8.0/SequenciaFibonacci.dll
+/home/alex49/dev/estagio_em_desenvolvimento_target_sistemas/SequenciaFibonacci/bin/Debug/net8.0/SequenciaFibonacci.pdb
+/home/alex49/dev/estagio_em_desenvolvimento_target_sistemas/SequenciaFibonacci/obj/Debug/net8.0/SequenciaFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex49/dev/estagio_em_desenvolvimento_target_sistemas/SequenciaFibonacci/obj/Debug/net8.0/SequenciaFibonacci.AssemblyInfoInputs.cache
+/home/alex49/dev/estagio_em_desenvolvimento_target_sistemas/SequenciaFibonacci/obj/Debug/net8.0/SequenciaFibonacci.AssemblyInfo.cs
+/home/alex49/dev/estagio_em_desenvolvimento_target_sistemas/SequenciaFibonacci/obj/Debug/net8.0/SequenciaFibonacci.csproj.CoreCompileInputs.cache
+/home/alex49/dev/estagio_em_desenvolvimento_target_sistemas/SequenciaFibonacci/obj/Debug/net8.0/SequenciaFibonacci.sourcelink.json
+/home/alex49/dev/estagio_em_desenvolvimento_target_sistemas/SequenciaFibonacci/obj/Debug/net8.0/SequenciaFibonacci.dll
+/home/alex49/dev/estagio_em_desenvolvimento_target_sistemas/SequenciaFibonacci/obj/Debug/net8.0/refint/SequenciaFibonacci.dll
+/home/alex49/dev/estagio_em_desenvolvimento_target_sistemas/SequenciaFibonacci/obj/Debug/net8.0/SequenciaFibonacci.pdb
+/home/alex49/dev/estagio_em_desenvolvimento_target_sistemas/SequenciaFibonacci/obj/Debug/net8.0/SequenciaFibonacci.genruntimeconfig.cache
+/home/alex49/dev/estagio_em_desenvolvimento_target_sistemas/SequenciaFibonacci/obj/Debug/net8.0/ref/SequenciaFibonacci.dll
