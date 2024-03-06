@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/alex49/dev/estagio_em_desenvolvimento_target_sistemas/InversorDeString/InversorDeString.csproj": {}
+  },
+  "projects": {
+    "/home/alex49/dev/estagio_em_desenvolvimento_target_sistemas/InversorDeString/InversorDeString.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/alex49/dev/estagio_em_desenvolvimento_target_sistemas/InversorDeString/InversorDeString.csproj",
+        "projectName": "InversorDeString",
+        "projectPath": "/home/alex49/dev/estagio_em_desenvolvimento_target_sistemas/InversorDeString/InversorDeString.csproj",
+        "packagesPath": "/home/alex49/.nuget/packages/",
+        "outputPath": "/home/alex49/dev/estagio_em_desenvolvimento_target_sistemas/InversorDeString/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/alex49/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/alex49/.dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
